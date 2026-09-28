@@ -1,0 +1,4 @@
+-- =====================================================
+-- 05_create_final_tables.sql
+-- Purpose: Create final relational database tables
+-- =====================================================

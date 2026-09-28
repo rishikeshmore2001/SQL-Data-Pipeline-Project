@@ -1,0 +1,4 @@
+-- =====================================================
+-- 04_data_cleaning.sql
+-- Purpose: Clean and transform the raw clickstream data
+-- =====================================================

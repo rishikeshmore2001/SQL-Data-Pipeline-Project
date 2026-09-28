@@ -1,0 +1,4 @@
+-- =====================================================
+-- 06_load_final_tables.sql
+-- Purpose: Load cleaned data into final relational tables
+-- =====================================================
